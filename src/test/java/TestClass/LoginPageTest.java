@@ -7,6 +7,8 @@ import Base.TestBase;
 import Pages.HomePage;
 import Pages.LoginPage;
 
+//This is login page test
+
 public class LoginPageTest extends TestBase {
 	 
 	LoginPage loginpage;
